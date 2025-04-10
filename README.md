@@ -1,5 +1,7 @@
 ## 👨‍💻 Peter Siegmund
-Flutter developer from Hamburg/Germany
+Flutter developer from Hamburg/Germany. 
+
+In my spare time I'm also a maker (ESP32, STM32, OnShape, KiCad...)
 
 ### My Stats
 [![Card](https://github-readme-stats.vercel.app/api?username=mars3142&show_icons=true&theme=dracula&line_height=33)](https://github.com/mars3142/)
